@@ -1,0 +1,31 @@
+.demo-card {
+  width: 600px;
+  margin: 28px;
+}
+
+.demo-card-article {
+  padding: 16px;
+  text-decoration: none;
+  color: inherit;
+}
+
+#ABC {
+  background-color: #F5F5F5;
+  font-family: Arial, sans-serif;
+}
+
+//.demo-card-article-group-heading {
+//  @include mdc-theme-prop(color, text-secondary-on-light);
+//
+//  padding: 8px 16px;
+//}
+//
+//.demo-card-article__title {
+//  margin: 0 0 4px 0;
+//}
+//
+//.demo-card-article__snippet {
+//  @include mdc-theme-prop(color, text-secondary-on-light);
+//
+//  margin: 0;
+//}
